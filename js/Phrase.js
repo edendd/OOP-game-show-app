@@ -6,17 +6,6 @@ class Phrase {
 constructor(phrase){
 
 
-  }
-addPhraseToDisplay(){
   
-}
-
-checkLetter(){
-
-}
-
-showMatchedLetter(){
-
-}
-
+   }
 }
